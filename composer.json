@@ -1,5 +1,5 @@
 {
-    "name": "laravel-module/user-module",
+    "name": "tongdu99/user-module",
     "type": "laravel-module",
     "description": "Basic authentication extracted from laravel 6",
     "license": "MIT",
