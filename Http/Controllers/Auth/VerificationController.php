@@ -2,7 +2,7 @@
 
 namespace Modules\User\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use Modules\User\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\VerifiesEmails;
 
 class VerificationController extends Controller
